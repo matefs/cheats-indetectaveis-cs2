@@ -1,9 +1,10 @@
-
-- Cheat de mostrar mira mesmo quando está de AWS: 
-<img width="1833" height="946" alt="image" src="https://github.com/user-attachments/assets/35189c2d-2d15-4eef-832a-f50aa2e5dd38" />
+ 
 
 
  # 🎯 CS2 Aim Assist Scripts (AutoHotkey)
+
+<img width="1833" height="946" alt="image" src="https://github.com/user-attachments/assets/35189c2d-2d15-4eef-832a-f50aa2e5dd38" />
+
 
 Bem-vindo ao repositório de scripts de automação para **Counter-Strike 2**, desenvolvidos em **AutoHotkey (AHK)**. Este projeto contém ferramentas de suporte à mira, criadas para fins educacionais e de estudo da linguagem AHK.
 
